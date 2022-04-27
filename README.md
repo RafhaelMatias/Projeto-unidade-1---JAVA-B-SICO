@@ -13,3 +13,6 @@
 
 
 # TED 05
+![ted 05 n inteiros](https://user-images.githubusercontent.com/95319831/165430574-4628b490-2c4f-442f-9351-40195b9fe1b9.png)
+# RESPOSTA TED 5
+![ted 05 numeros inteiros resultado](https://user-images.githubusercontent.com/95319831/165430409-12bfeb5c-bf1c-476f-8e1c-57abf088b88f.png)
