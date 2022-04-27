@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ted1 {
+public class CdCor {
 
     public static void main(String[] args) {
 
