@@ -10,6 +10,9 @@
 
 
 # TED 04
+![TED 4 menor numero](https://user-images.githubusercontent.com/95319831/165431529-c2f4419d-d674-4bab-80c5-5bdfcb52895a.png)
+# RESPOSTA TED 5
+
 
 
 # TED 05
