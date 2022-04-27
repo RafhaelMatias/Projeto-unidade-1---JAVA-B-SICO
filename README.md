@@ -11,7 +11,9 @@
 
 # TED 04
 ![TED 4 menor numero](https://user-images.githubusercontent.com/95319831/165431529-c2f4419d-d674-4bab-80c5-5bdfcb52895a.png)
-# RESPOSTA TED 5
+# RESPOSTA TED 4
+![TED 04 MENOR NUMERO](https://user-images.githubusercontent.com/95319831/165432078-8e5b48a7-ad79-43ea-a375-424f7072dd84.png)
+
 
 
 
